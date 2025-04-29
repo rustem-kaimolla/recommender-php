@@ -1,0 +1,25 @@
+{
+  "name": "rustem-kaimolla/recommender-php",
+  "description": "A lightweight library for building recommender systems in PHP",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Recommender\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.6"
+  },
+  "config": {
+    "platform": {
+        "php": "8.0"
+    }
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit"
+  }
+}
