@@ -5,7 +5,7 @@
 [![Tests](https://github.com/rustem-kaimolla/recommender-php/actions/workflows/ci.yml/badge.svg)](https://github.com/rustem-kaimolla/recommender-php/actions)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![PHP Version](https://img.shields.io/badge/php-%5E8.0-8892BF.svg)](https://www.php.net/)
-[![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen.svg)](https://github.com/rustem-kaimolla/recommender-php)
+[![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)](https://github.com/rustem-kaimolla/recommender-php)
 
 
 > Supports Item-Item Collaborative Filtering via Jaccard Similarity and an extensible architecture to work with different types of storage.
